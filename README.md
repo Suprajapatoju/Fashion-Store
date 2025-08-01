@@ -2,33 +2,32 @@
 A simple fashion store landing page built using HTML, CSS, and JavaScript.
 This project was created for practice to improve my front-end development skills.
 
-🔗 ## Live Demo
-[Visit Live Site](https://suprajapatoju.github.io/Fashion-Store/) 🚀
+## 🔗 Live Demo
 
-🛠️ ## Built With
-HTML5
+[Visit Live Site 🚀](https://suprajapatoju.github.io/Fashion-Store/)
 
-CSS3
+## 🛠️ Built With
 
-JavaScript (Vanilla)
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)
 
-🧠 ## What I Learned
-Structuring a basic HTML page
+## 🧠 What I Learned
 
-Styling using modern CSS
+- Structuring a basic HTML page  
+- Styling using modern CSS  
+- Adding interactivity with JavaScript  
+- Creating responsive layouts  
 
-Adding interactivity with JavaScript
+## 📌 Future Improvements
 
-Creating responsive layouts
+- Add product pages  
+- Integrate cart functionality  
+- Use a CSS framework like Bootstrap or Tailwind  
+- Connect to a backend or API  
 
-📌 ## Future Improvements
-Add product pages
+## 📄 License
 
-Integrate cart functionality
-
-Use a CSS framework like Bootstrap or Tailwind
-
-Connect to a backend or API
-
-📄 ## License
-This project is for personal practice and learning. Feel free to fork and experiment!
+This project is for personal practice and learning.  
+Feel free to fork and experiment!
+and learning. Feel free to fork and experiment!
