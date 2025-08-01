@@ -1,4 +1,4 @@
-#🛍️ Fashion Store
+# Fashion Store
 A simple fashion store landing page built using HTML, CSS, and JavaScript.
 This project was created for practice to improve my front-end development skills.
 
